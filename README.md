@@ -29,6 +29,13 @@ This project shows how to create an SFTP server on AWS using Terraform and the A
 
 You'll find the high-level explanation on my blog in the post 
 
-- [AWS Transfer Family in action: Hosting files with sFTP and Terraform (real case study)](https://blog.devandreacarratta.it/en/aws-transfer-family-terraform/?utm_source=github&utm_medium=cloud-development&utm_campaign=terraform&utm_content=en/aws-transfer-family-terraform)
+- [AWS Transfer Family in action: Hosting files with sFTP and Terraform (real case study)](https://blog.devandreacarratta.it/en/aws-transfer-family-terraform/?utm_source=github&utm_medium=cloud-development&utm_campaign=terraform&utm_content=aws-transfer-family-terraform)
 
 Have a good cloud day!
+
+## License
+This project is licensed under the MIT License. Use at your own risk. 
+- If something breaks, it's your problem. 😆
+- If it costs you money, that's still your problem. 💸
+
+  
